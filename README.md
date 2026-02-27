@@ -11,12 +11,12 @@ A clean, responsive portfolio website built with HTML and Tailwind CSS. Perfect 
 - 🚀 Easy to customize
 
 ## Sections
-
 - **Hero Section** - Introduction and call-to-action
 - **About Section** - Personal information and skills
 - **Projects Section** - Responsive grid showcasing your work
 - **Contact Section** - Contact form
 - **Footer** - Additional links and copyright
+- 
 echo "# beginner-portfolio-template" >> README.md
 git init
 git add README.md
@@ -30,13 +30,11 @@ git push -u origin main
 - Tailwind CSS (CDN)
 
 ## Getting Started
-
 1. Clone this repository
 2. Open `index.html` in your browser
 3. Customize the content with your own information
 
 ## Customization
-
 - Replace "John Doe" with your name
 - Update the About section with your story
 - Add your own projects to the Projects section
@@ -44,7 +42,6 @@ git push -u origin main
 - Update contact form action (currently static)
 
 ## Browser Support
-
 - Chrome (latest)
 - Firefox (latest)
 - Safari (latest)
